@@ -1,5 +1,5 @@
 
-class firstrepo
+class first
 { 
 	public static void main(String args[]) 
 	{ 
